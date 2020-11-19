@@ -50,6 +50,6 @@ We came up with a ranking formula that takes into consideration 8 properties for
 - **Pesearch influence score** This score is the citation count as of date for the main publication presenting the simulator to the research community. The citation count is taken as an impact factor of this simulator on the ereasearch community. This score is positively related to the simulator's rank.
 
 
-All the information presented above is beautifully presented in the file simulator_survey.excel
+All the information presented above is beautifully presented in the file simulator_survey.xlsx
 
 
