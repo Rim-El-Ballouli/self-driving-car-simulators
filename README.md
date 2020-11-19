@@ -6,7 +6,9 @@ We propose a taxonomy which includes a diverse and imporant set of features that
 
 Finally, we perform a ranking over the simulators. The ranking takes into account the maturity, web presnece, platform support, programming langauge support, Github presence, and research influence of a simulator etc. We Conclude that Airsim, Carla and Gazebo are highly ranked in our list.
 
-Hope this comparison and ranking can help you make a better descision with regards to your choice of simulator in your upcoming project. 
+Hope this comparison and ranking can help you make a better descision with regards to your choice of simulator in your upcoming project. A sample of the excel sheet is shown below.
+
+![Sample Excel sheet](sample_survey.PNG)
 
 The list of 13 open-source virtual self-driving simulators included in this comparison:
  - Airsim
