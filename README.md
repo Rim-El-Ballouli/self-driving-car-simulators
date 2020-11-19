@@ -1,4 +1,4 @@
-# A survey of Virtual Open-source Self-driving Car Simulators
+# A Survey of Virtual Open-source Self-driving Car Simulators
 
 This repository aims to list 13 open-source virtual self-driving car simulators and provide a detailed comparison between them available in the excel sheet provided.
 
